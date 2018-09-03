@@ -1,0 +1,105 @@
+=============================================================
+	iFlyTEK log file
+	Subject :    Speech Engines Management
+	Created-Time :    18/06/15-11:18:04 623
+	Application: D:\^Work\Solfware\通讯接口_集团产品\晋中一院\采血叫号系统\BIN\CallService.exe
+	Module:      D:\^Work\Solfware\通讯接口_集团产品\晋中一院\采血叫号系统\BIN\iFlyTTS.dll
+	PID: 4476 (0x117c) Version: 2.5.0.1065
+=============================================================
+[18/06/15-11:18:05 724][ERR][Px117c][Tx33d4] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:18:10 587][WAN][Px117c][Tx33d4] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:18:10 624][ERR][Px117c][Tx33d4] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+=============================================================
+	iFlyTEK log file
+	Subject :    Speech Engines Management
+	Created-Time :    18/06/15-11:18:23 021
+	Application: D:\^Work\Solfware\通讯接口_集团产品\晋中一院\采血叫号系统\BIN\CallService.exe
+	Module:      D:\^Work\Solfware\通讯接口_集团产品\晋中一院\采血叫号系统\BIN\iFlyTTS.dll
+	PID: 14688 (0x3960) Version: 2.5.0.1065
+=============================================================
+[18/06/15-11:18:24 023][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:18:29 385][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:18:29 429][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:18:34 533][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:18:35 573][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:18:40 741][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:18:40 777][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:18:45 903][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:18:45 933][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:18:50 990][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:18:50 017][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:18:55 065][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:18:55 096][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:19:00 146][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:19:00 171][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:19:05 241][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:19:05 273][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:19:10 496][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:19:10 519][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:19:15 468][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:19:15 491][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:19:21 669][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:19:21 696][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:19:26 885][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:19:26 910][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:19:31 159][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:19:31 185][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:19:36 354][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:19:36 381][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:19:42 573][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:19:42 605][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:19:47 951][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:19:47 989][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:19:52 144][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:19:52 183][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:19:57 378][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:19:57 423][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:20:03 729][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:20:03 780][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:20:08 829][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:20:08 887][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:20:13 282][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:20:13 391][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:20:19 688][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:20:19 763][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:20:24 146][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:20:24 217][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:20:29 495][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:20:30 570][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:20:35 841][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:20:35 926][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:20:40 196][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:20:40 303][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/15-11:20:45 473][WAN][Px3960][Tx3734] dyn_egn: engine intp50 already initialized!
+[18/06/15-11:20:46 598][ERR][Px3960][Tx3734] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+=============================================================
+	Speech Engines Management End-Time: 18/06/15-11:21:02 052
+	PID: 14688 (0x3960)
+=============================================================
+=============================================================
+	iFlyTEK log file
+	Subject :    Speech Engines Management
+	Created-Time :    18/06/26-19:51:37 360
+	Application: D:\^Work\Solfware\通讯接口_集团产品\晋中一院\采血叫号系统\BIN\CallService.exe
+	Module:      D:\^Work\Solfware\通讯接口_集团产品\晋中一院\采血叫号系统\BIN\iFlyTTS.dll
+	PID: 9480 (0x2508) Version: 2.5.0.1065
+=============================================================
+[18/06/26-19:51:39 623][ERR][Px2508][Tx19a0] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/26-19:51:46 386][WAN][Px2508][Tx19a0] dyn_egn: engine intp50 already initialized!
+[18/06/26-19:51:46 437][ERR][Px2508][Tx19a0] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/26-19:51:51 582][WAN][Px2508][Tx19a0] dyn_egn: engine intp50 already initialized!
+[18/06/26-19:51:51 615][ERR][Px2508][Tx19a0] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/26-19:51:56 672][WAN][Px2508][Tx19a0] dyn_egn: engine intp50 already initialized!
+[18/06/26-19:51:56 706][ERR][Px2508][Tx19a0] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/26-19:52:01 593][WAN][Px2508][Tx19a0] dyn_egn: engine intp50 already initialized!
+[18/06/26-19:52:01 619][ERR][Px2508][Tx19a0] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/26-19:52:06 438][WAN][Px2508][Tx19a0] dyn_egn: engine intp50 already initialized!
+[18/06/26-19:52:06 473][ERR][Px2508][Tx19a0] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/26-19:52:11 361][WAN][Px2508][Tx19a0] dyn_egn: engine intp50 already initialized!
+[18/06/26-19:52:11 384][ERR][Px2508][Tx19a0] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/26-19:52:16 046][WAN][Px2508][Tx19a0] dyn_egn: engine intp50 already initialized!
+[18/06/26-19:52:16 073][ERR][Px2508][Tx19a0] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/26-19:52:21 904][WAN][Px2508][Tx19a0] dyn_egn: engine intp50 already initialized!
+[18/06/26-19:52:21 953][ERR][Px2508][Tx19a0] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 
+[18/06/26-19:52:25 742][WAN][Px2508][Tx19a0] dyn_egn: engine intp50 already initialized!
+[18/06/26-19:52:25 777][ERR][Px2508][Tx19a0] SEM_Module::conn connect string invalid! connstr = P4X6HA-BT56KW-1RQ14B, param = P4X6HA-BT56KW-1RQ14B, value = 

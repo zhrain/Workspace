@@ -1,0 +1,97 @@
+unit U_login;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, RzButton, StdCtrls, RzLabel, Mask, RzEdit,IniFiles;
+
+type
+  TF_login = class(TForm)
+    E_password: TRzEdit;
+    l_password: TRzLabel;
+    b_login: TRzButton;
+    b_cancel: TRzButton;
+    procedure b_cancelClick(Sender: TObject);
+    procedure b_loginClick(Sender: TObject);
+    procedure E_usercodeKeyPress(Sender: TObject; var Key: Char);
+    procedure E_passwordKeyPress(Sender: TObject; var Key: Char);
+    procedure FormShow(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  F_login: TF_login;
+
+implementation
+
+uses U_p_dm,U_public;
+
+{$R *.dfm}
+
+procedure TF_login.b_cancelClick(Sender: TObject);
+begin
+ Application.Terminate;
+end;
+
+procedure TF_login.b_loginClick(Sender: TObject);
+begin
+ with p_dm.aq_temp do
+ begin
+   close;
+   sql.Clear;
+   SQL.Add('select * from Users where UserID=:UserID');
+   Parameters.ParamByName('UserID').Value :=Trim(E_password.Text);
+   Open;
+   if not eof then
+   begin
+     puv_usercode:=fieldbyname('UserID').AsString;
+     puv_username:=fieldbyname('UserName').AsString;
+
+     with TiniFile.Create(puv_exepath+'\BloodStation.ini') do
+     begin
+        WriteString('login','name',puv_username);
+        WriteString('login','id',puv_usercode);
+     end;
+
+     F_login.close;
+   end
+   else
+   begin
+     ShowMessage('未找到该用户信息，请核查后重试！');
+     E_password.SetFocus;
+     E_password.SelectAll;
+   end;
+ end;
+
+end;
+
+procedure TF_login.E_usercodeKeyPress(Sender: TObject; var Key: Char);
+begin
+ if Key=#13 then
+ begin
+   E_password.SetFocus;
+   E_password.SelectAll;
+ end;
+end;
+
+procedure TF_login.E_passwordKeyPress(Sender: TObject; var Key: Char);
+begin
+ if Key=#13 then
+ begin
+   b_login.Click;
+ end;
+end;
+
+procedure TF_login.FormShow(Sender: TObject);
+begin
+  with TiniFile.Create(puv_exepath+'\BloodStation.ini') do
+  begin
+    E_password.Text:=Readstring('login','id','');
+  end;
+end;
+
+end.

@@ -1,0 +1,43 @@
+object p_dm: Tp_dm
+  OldCreateOrder = False
+  OnCreate = DataModuleCreate
+  Left = 432
+  Top = 226
+  Height = 259
+  Width = 521
+  object AQ_temp: TADOQuery
+    Connection = ADO
+    Parameters = <>
+    Left = 16
+    Top = 72
+  end
+  object ADO: TADOConnection
+    CommandTimeout = 10
+    ConnectionTimeout = 5
+    LoginPrompt = False
+    Provider = 'SQLOLEDB.1'
+    Left = 16
+    Top = 24
+  end
+  object SP_serverdate: TADOStoredProc
+    Connection = ADO
+    ProcedureName = 'sp_serverDate;1'
+    Parameters = <
+      item
+        Name = '@RETURN_VALUE'
+        DataType = ftInteger
+        Direction = pdReturnValue
+        Precision = 10
+        Value = 0
+      end
+      item
+        Name = '@T_serverDate'
+        Attributes = [paNullable]
+        DataType = ftDateTime
+        Direction = pdOutput
+        Value = 37834.6855785532d
+      end>
+    Left = 16
+    Top = 136
+  end
+end
